@@ -10,3 +10,10 @@ vastused küsimustele:
 Mis oli suurim üllatus? Ei olnudki väga suuri üllatusi, kõik toimis.
 Milline on meie soovitus Toomasele? Hetkel soovitusi ei ole.
 Milliseid andmeid meil puudus? Kõik andmed olid antud ülesande jaoks olemas.
+
+ Kokkulepped
+
+- Me suhtleme grupi kaudu Google chat
+- Kui keegi jääb kinni, küsime kohe abi
+- Kõik failid hoiame GitHubis
+- Kõik liikmed kinnitavad, et nõustuvad rollidega
