@@ -5,7 +5,7 @@
    | [Rita] | B: NotebookLM Seadistaja | Win |
    | [Hugo R] | B: Supabase Seadistaja | Mac |
    ## Meie eesmärk
-   [Ehitada lihtne andmeanalüüsi pipeline, mis ühendab andmebaasi, andmetöötluse ja visualiseerimise, et teha andmetest arusaadavaid järeldusi.]ing
+   [Ehitada lihtne andmeanalüüsi pipeline, mis ühendab andmebaasi, andmetöötluse ja visualiseerimise, et teha andmetest arusaadavaid järeldusi.]
 vastused küsimustele:
 Mis oli suurim üllatus? Ei olnudki väga suuri üllatusi, kõik toimis.
 Milline on meie soovitus Toomasele? Hetkel soovitusi ei ole.
