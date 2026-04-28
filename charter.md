@@ -9,7 +9,7 @@ UrbanStyle Marketing
 [Rita] – Windows – Roll C   
 
 ## Kuidas me üksteist aitame
-Meil on chat googles, seal räägime.
+Kui keegi jääb kinni, küsib ta Google Chatis abi ja teised aitavad esimesel võimalusel
 
 ## Kohtumisajad
 vajadusel
