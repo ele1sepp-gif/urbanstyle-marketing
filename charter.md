@@ -21,4 +21,16 @@ GitHub / Google Drive
 google chat
 
 ## Rollide rotatsioon
-Nädal 1: A=[Ele], B=[Hugo R], C=[Rita]
+
+Nädal 1:
+A = Ele, B = Hugo R, C = Rita
+
+Nädal 2:
+A = Hugo R, B = Rita, C = Ele
+
+Nädal 3:
+A = Rita, B = Ele, C = Hugo R
+
+Nädal 4:
+A = Ele, B = Hugo R, C = Rita
+
