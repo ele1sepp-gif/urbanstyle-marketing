@@ -34,3 +34,7 @@ A = Rita, B = Ele, C = Hugo R
 Nädal 4:
 A = Ele, B = Hugo R, C = Rita
 
+Ele Sepp, Hugo R.Vahimets, Rita Kasesalu
+
+
+
