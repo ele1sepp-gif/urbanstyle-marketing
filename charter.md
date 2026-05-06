@@ -22,16 +22,16 @@ google chat
 
 ## Rollide rotatsioon
 
-Nädal 1:
+Nädal 0:
 A = Ele, B = Hugo R, C = Rita
 
-Nädal 2:
+Nädal 1:
 A = Hugo R, B = Rita, C = Ele
 
-Nädal 3:
+Nädal 2:
 A = Rita, B = Ele, C = Hugo R
 
-Nädal 4:
+Nädal 3:
 A = Ele, B = Hugo R, C = Rita
 
 GitHub: https://github.com/ele1sepp-gif/urbanstyle-marketing
