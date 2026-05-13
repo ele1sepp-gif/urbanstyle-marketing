@@ -11,14 +11,15 @@ Milline on meie soovitus Toomasele? Hetkel soovitusi ei ole.
 Milliseid andmeid meil puudus? Kõik andmed olid antud ülesande jaoks olemas.
 
  | Nimi | Roll (Nädal 1) | OS |
-   | [Ele] | A: Müügiandmed | Mac |
-   | [Hugo] | B: Kliendiandmed | Mac |
-   | [Rita] | C: Tooteandmed | Win 
+   | [Hugo] | A: Müügiandmed | Mac, Win |
+   | [Rita] | B: Kliendiandmed | Win |
+   | [Ele] | C: Tooteandmed | Mac 
    
    vastused küsimustele:
-Mis oli suurim üllatus? 
-Milline on meie soovitus Toomasele? 
-Milliseid andmeid meil puudus? 
+Mis oli suurim üllatus? Linnadenimed on duubeltatud, suurete ja väikeste tähtedega loeb programm kaheks erinevaks linnaks.
+Käsklused erinesid märgatavalt juhendis tegelikkusele, mida vaja läks. Antud tabelis olid kõikidel toodetel hinnad olemas, puuduvaid väärtusi oli vaid sertifikaadi lahtris(öko). 
+Milline on meie soovitus Toomasele? Andmeid tuleks andmesisestajal korrastada(täita tühjad lahtrid, dubleeritud andmed eemaldada)
+Milliseid andmeid meil puudus? e-mailid:380, kleindi info Tallinna poed:576.
 
    | Nimi | Roll (Nädal 2) | OS |
    | [Rita] | A: Müügiandmete puhastamine | Win |
