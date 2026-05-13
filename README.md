@@ -1,6 +1,6 @@
 # urbanstyle-market# [Marketing] -- UrbanStyle.ltd Andmemeeskond
    ## Meeskonnaliikmed
-   | Nimi | Roll (Nädal 1) | OS |
+   | Nimi | Roll (Nädal 0) | OS |
    | [Ele] | A: GitHub Repo + Team Charter | Mac |
    | [Hugo] | B: Supabase Seadistaja | Mac |
    | [Rita] | C: NotebookLM Seadistaja | Win 
@@ -9,6 +9,16 @@
 Mis oli suurim üllatus? Ei olnudki väga suuri üllatusi, kõik toimis.
 Milline on meie soovitus Toomasele? Hetkel soovitusi ei ole.
 Milliseid andmeid meil puudus? Kõik andmed olid antud ülesande jaoks olemas.
+
+ | Nimi | Roll (Nädal 1) | OS |
+   | [Ele] | A: Müügiandmed | Mac |
+   | [Hugo] | B: Kliendiandmed | Mac |
+   | [Rita] | C: Tooteandmed | Win 
+   
+   vastused küsimustele:
+Mis oli suurim üllatus? 
+Milline on meie soovitus Toomasele? 
+Milliseid andmeid meil puudus? 
 
    | Nimi | Roll (Nädal 2) | OS |
    | [Rita] | A: Müügiandmete puhastamine | Win |
