@@ -31,6 +31,24 @@ Mis oli suurim üllatus? Klientide tabelis telefoni- ja nimeandmed olid oodatust
 Milline on meie soovitus Toomasele? Müügiandmetest on vaja duplikaadid eemaldada ja andmed korda teha. Klienditabelis oleks vaja parandada andmesisestuse reegleid, et vältida ebajärjekindlust ning tagada e-maili kohustuslik täitmine uute klientide lisamisel, sest e-mailid on pealmine kanal kliendiga suhtlemiseks.
 Milliseid andmeid meil puudus? Tooteandmetes tuleks duplikaadid koondada ühe nime alla.
 
+| Nimi | Roll (Nädal 3) | OS |
+   | [Ele] | A: INNER JOIN | Win, Mac |
+   | [Hugo] | B: LEFT JOIN + NULL | Mac |
+   | [Rita] | B: LEFT JOIN | Win |
+   | [Ele] | D: INNER JOIN + mitme tabeli JOIN | Mac, Win |
+   
+   vastused küsimustele:
+Mis oli suurim üllatus? Laos on 10 toodet, mis on miinusmärgiga.
+Suurem hulk kadunuid kliente registreerusid 2024. Aasta lõpul ja 2025. aasta alguses.
+Ainult 29,91% klientidest kulutab üle keskmise, kuid just nemad mõjutavad ettevõtte käivet kõige rohkem. 
+Kuigi e-poe müük on väiksem, toimub seal siiski märkimisväärselt palju oste. 
+Milline on meie soovitus Annale? Keskenduda vähem müüdud kaubakategooriatele: Aksessuaarid, laste riided.
+Muuta kadunud kliendid aktiivseks “win-back” uue kampaaniaga.
+UrbanStyle peaks keskenduma lojaalsete VIP-klientide hoidmisele läbi personaalse turunduse ja lojaalsusprogrammide. 
+UrbanStyle peaks jätkama investeerimist Tallinna füüsilistesse poodidesse ning samal ajal arendama online-turundust väiksemates linnades 
+Milliseid andmeid meil puudus? Puuduvad andmed tagastatud kaupade kohta.
+Online-müük ei olnud seotud konkreetsete füüsiliste poodidega, mistõttu ei saanud kanalite võrdlust linnade lõikes täielikult analüüsida. 
+
    ## Meie eesmärk
    [Ehitada lihtne andmeanalüüsi pipeline, mis ühendab andmebaasi, andmetöötluse ja visualiseerimise, et teha andmetest arusaadavaid järeldusi.]
  Kokkulepped
