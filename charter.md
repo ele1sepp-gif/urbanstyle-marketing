@@ -46,6 +46,15 @@ A = Ele, B = Hugo R, C = Rita
 Nädal 7:
 A = Hugo R, B = Rita, C = Ele
 
+Nädal 8:
+A = Rita, B = Ele, C = Hugo R
+
+Nädal 9:
+A = Ele, B = Hugo R, C = Rita
+
+Nädal 10:
+A = Hugo R, B = Rita, C = Ele
+
 GitHub: https://github.com/ele1sepp-gif/urbanstyle-marketing
 Supabase: https://supabase.com/dashboard/project/iacbqdybsknisrevemar
 NotebookLM: https://notebooklm.google.com/notebook/dc49676e-0e0e-43ba-b685-4474d82879d1?pli=1 
